@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Jan/2018:20:18:45 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25884 http-bio-8085-exec-1 2069
+127.0.0.1 - - [01/Jan/2018:20:18:47 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25884 http-bio-8085-exec-2 40
+127.0.0.1 - - [01/Jan/2018:20:19:03 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25884 http-bio-8085-exec-3 37
+127.0.0.1 - - [01/Jan/2018:20:19:15 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25882 http-bio-8085-exec-4 42
+127.0.0.1 - - [01/Jan/2018:20:20:33 +0800] "GET /search.html?q=%E9%81%AE%E5%A4%A9 HTTP/1.0" 200 19110 http-bio-8085-exec-5 29
+127.0.0.1 - - [01/Jan/2018:20:22:01 +0800] "GET /search.html?q=%E9%81%AE%E5%A4%A9 HTTP/1.0" 200 19115 http-bio-8085-exec-6 27
